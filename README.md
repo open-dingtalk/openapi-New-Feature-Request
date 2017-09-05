@@ -1,2 +1,6 @@
-# openapi-New-Feature-Request
-记录钉钉openapi新功能申请
+## 请使用Issues来提交您需要的新功能，我们会根据实际的使用场景来考虑是否支持
+
+# NewFeature格式
+
+* 功能说明
+* 使用场景说明
